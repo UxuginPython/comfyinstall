@@ -4,5 +4,6 @@ git clone https://github.com/UxuginPython/comfyinstall
 cd comfyinstall
 chmod +x *.sh
 ./comfyinstall.sh
+./getmodels.sh
 ./startcomfy.sh
 ```
